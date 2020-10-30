@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+  
+   #banban1{
+color:red;
+font-style: oblique;
+
+font-weight: bold;
+
+   }
+   #banban2{
+    margin-left:5000px;
+   
+         }
+         #banban3{
+            z-index:1 ;                }
+            #ss{
+    
+               background-image: url(banban2.png);
+               background-repeat: no-repeat;
+            
+               }

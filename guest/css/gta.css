@@ -1,0 +1,33 @@
+.woft{
+    background-color: white;
+    height: 100px;
+    text-align: center;
+    color:white;
+    font-weight: bold;
+    border-radius: 18px
+}
+.lammau{
+    border-style: inset;
+    width:300px;
+    
+}
+.tiger{
+    width:100%;
+    border-color: white;
+    border-collapse: collapse;
+    
+}
+.lion{
+    width: 100%
+}
+.elephant{
+    background-image: url(anh/5.jpg);
+    background-repeat: no-repeat;
+    
+}
+.img {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 1;
+}
